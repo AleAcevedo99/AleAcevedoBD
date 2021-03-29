@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="genders">
+        <item>Seleccionar</item>
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </string-array>
+
+    <string-array name="reading_frecuency">
+        <item>Seleccionar</item>
+        <item>Muy frecuentemente</item>
+        <item>De vez en cuando</item>
+        <item>Poco</item>
+    </string-array>
+
+    <string-array name="age_category">
+        <item>Seleccionar</item>
+        <item>Infantil</item>
+        <item>Juevenil</item>
+        <item>New Adult</item>
+        <item>Adulta</item>
+    </string-array>
+</resources>
